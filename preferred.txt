@@ -11,7 +11,7 @@ My preferred order of running these on a single 1080ti.
 
 But if you really want to get fancy then you can try the below which will try add numbers to the end of all English words over 8 characters long already.
 
-8plusenglishdictionary.txt ?d
+8plusenglishdictionary.txt ?d (10 minutes)
 8plusenglishdictionary.txt ?d?d
 8plusenglishdictionary.txt ?d?d?d
 8plusenglishdictionary.txt ?d?d?d?d
