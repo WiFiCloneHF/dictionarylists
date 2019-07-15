@@ -4,7 +4,7 @@ My preferred order of running these on a single 1080ti.
 7letterenglishfirstlettercapitals.txt ?d (2 minutes)
 6letterenglishnocapitals.txt ?d?d (12 minutes)
 6letterenglishfirstlettercapitals.txt ?d?d (12 minutes)
-5letterenglishnocapitals.txt ?d?d?d
+5letterenglishnocapitals.txt ?d?d?d (2 hours)
 5letterenglishfirstlettercapitals.txt ?d?d?d (2 hours)
 8plusenglishdictionary.txt	(1 minute)
 
