@@ -1,6 +1,6 @@
 My preferred order of running these on a single 1080ti.
 
-7letterenglishnocapitals.txt ?d 
+7letterenglishnocapitals.txt ?d (2 minutes)
 7letterenglishfirstlettercapitals.txt ?d (2 minutes)
 6letterenglishnocapitals.txt ?d?d
 6letterenglishfirstlettercapitals.txt ?d?d
