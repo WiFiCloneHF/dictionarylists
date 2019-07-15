@@ -1,3 +1,14 @@
+Note: When doing the malefemale all names (the names are repeated 3 times, one with first letter capital, one with all capitals and one with no capitals such as
+Jordan
+jordan
+JORDAN
+I'd recommend running the wordlist 2-3 times with ?d / ?d?d / ?d?d?d 
+Each one respectively will do
+Jordan1
+Jordan11
+Jordan111
+
+
 My preferred order of running these on a single 1080ti.
 
 ###CapandNoCap7letterwords.txt ?d (4 minutes)
