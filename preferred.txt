@@ -6,7 +6,7 @@ My preferred order of running these on a single 1080ti.
 6letterenglishfirstlettercapitals.txt ?d?d
 5letterenglishnocapitals.txt ?d?d?d
 5letterenglishfirstlettercapitals.txt ?d?d?d
-8plusenglishdictionary.txt	
+8plusenglishdictionary.txt	(1 minute)
 
 
 But if you really want to get fancy then you can try the below which will try add numbers to the end of all English words over 8 characters long already.
