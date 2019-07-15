@@ -8,6 +8,8 @@ Jordan1
 Jordan11
 Jordan111
 
+When running on the names or the 8character long dictionary, try use -r rules/leetspeak.rule
+
 
 My preferred order of running these on a single 1080ti.
 
