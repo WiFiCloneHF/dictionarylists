@@ -1,0 +1,28 @@
+My preferred order of running these.
+
+7letterenglishnocapitals.txt ?d
+7letterenglishfirstlettercapitals.txt	?d
+6letterenglishnocapitals.txt ?d?d
+6letterenglishfirstlettercapitals.txt	?d?d
+5letterenglishnocapitals.txt ?d?d?d
+5letterenglishfirstlettercapitals.txt	?d?d?d
+8plusenglishdictionary.txt	
+
+
+But if you really want to get fancy then you can try the below which will try add numbers to the end of all English words over 8 characters long already.
+
+8plusenglishdictionary.txt ?d
+8plusenglishdictionary.txt ?d?d
+8plusenglishdictionary.txt ?d?d?d
+8plusenglishdictionary.txt ?d?d?d?d
+
+Then I would recommend an 8 digits long file. It's 1gb or just under. I can't upload to github. To create it yourself:
+crunch 8 8 1234567890 -o 8digitslong.txt
+
+If you don't want 2 numbers to repeat you can add the -d 1 toggle like so
+crunch 8 8 1234567890 -o 8digitslong.txt -d 1
+
+This will never make 
+00000000
+Instead it will do something like
+01010101
